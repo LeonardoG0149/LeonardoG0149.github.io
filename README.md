@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <h1>Hi there, I'm Leonardo_G</h1>
+  <h1>Hi, I'm Leonardo_G</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Digital+Humanities+Learner;Chinese+Phonology+Explorer;Python+%26+PyQt+Developer" alt="Typing SVG" />
