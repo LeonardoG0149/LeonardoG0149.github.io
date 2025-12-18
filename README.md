@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[AnciRhy](http://testing.link.com)**
+- 🔭 I’m currently working on **[AnciRhy](https://github.com/LeonardoG0149/AnciRhy)**
 - 🌱 I’m currently learning **PyQt, Python, SQLite3**
 - 📂 My Portfolio: **[LeonardoG0149.github.io](https://LeonardoG0149.github.io)**
 - 💬 Ask me about **Digital Humanities & Phonology**
