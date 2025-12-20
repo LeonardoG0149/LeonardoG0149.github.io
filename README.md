@@ -15,11 +15,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[AnciRhy](https://github.com/LeonardoG0149/AnciRhy)**
-- 🌱 I’m currently learning **PyQt, Python, SQLite3**
-- 📂 My Portfolio: **[LeonardoG0149.github.io](https://LeonardoG0149.github.io)**
+- 🔭 正在開發 **[AnciRhy](https://github.com/LeonardoG0149/AnciRhy)**
+- 🌱 正在學習 **PyQt, Python, SQLite3**
+- 📂 我的主頁: **[LeonardoG0149.github.io](leo149.dpdns.org)**
+- 🛠️ 其他資料：**[和張侍中述懷_押韻材料可視化](https://leo149.dpdns.org/Hezhangshizhongshuhuai_rhyming/)**
 - 💬 Ask me about **Digital Humanities & Phonology**
-- 📫 Contact: **<a href="mailto:gyx0149@foxmail.com">gyx0149@foxmail.com</a>**
+- 📫 聯繫我: **<a href="mailto:gyx0149@foxmail.com">gyx0149@foxmail.com</a>**
 
 <br/>
 
