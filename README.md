@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 正在開發 **[AnciRhy·賢哉古音](https://github.com/LeonardoG0149/AnciRhy)**
+- 🔭 正在開發 **[AnciRhy·賢哉古音](https://github.com/LeonardoG0149/AnciRhy)**、**[AnciRhy·賢哉古音Web端（功能尚未對齊.exe版本）](https://ancirhy.lovable.app/)**
 - 🌱 正在學習 **PyQt, Python, SQLite3**
 - 📂 我的主頁: **[LeonardoG0149.github.io](https://LeonardoG0149.github.io)**
 - 🛠️ 其他資料：**[和張侍中述懷_押韻材料可視化](https://leo149.dpdns.org/Hezhangshizhongshuhuai_rhyming/)**、**[中古音【重紐】現象的邏輯](https://leo149.dpdns.org/chongniu-interactive-learning/)**
